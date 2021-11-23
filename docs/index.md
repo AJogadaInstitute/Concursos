@@ -1,4 +1,4 @@
-## Passe em provas de concurso, ENEM, vestibular usando o Sistema #AJogada de RPG
+## Passe em qualquer prova ou concurso com um jogo estratégico 
 
 You can use the [editor on GitHub](https://github.com/AJogadaInstitute/Concursos/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown file
 
