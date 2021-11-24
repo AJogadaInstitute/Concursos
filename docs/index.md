@@ -94,7 +94,8 @@ Ela transforma seu plano de estudo num quebra-cabeças que ao ser resolvido torn
 
 O próximo nível te espera no botão abaixo:
 
-![Screenshot_2021-11-24 Passe em provas de concurso, ENEM, vestibular usando o Sistema #AJogada de RPG - A Jogada](https://user-images.githubusercontent.com/94938731/143280905-c6fb81ef-6780-421d-966b-36ccd2ef8569.png)(https://pay.hotmart.com/H61041716I?off=6d7v8df2&sck=HOTMART_PRODUCT_PAGE)
+[![Screenshot_2021-11-24 Passe em provas de concurso, ENEM, vestibular usando o Sistema #AJogada de RPG - A Jogada](https://user-images.githubusercontent.com/94938731/143280905-c6fb81ef-6780-421d-966b-36ccd2ef8569.png)]( https://pay.hotmart.com/H61041716I?off=6d7v8df2&sck=HOTMART_PRODUCT_PAGE )
+
 
 
 ### Veja as conquistas de quem já usou
