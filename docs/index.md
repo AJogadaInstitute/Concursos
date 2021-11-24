@@ -1,6 +1,6 @@
 ## Passe em qualquer prova ou concurso 
 
-<iframe width="640" height="430" src="https://www.youtube.com/embed/em7uDuI6dY4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/em7uDuI6dY4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Medo de não dar?
 
@@ -90,6 +90,15 @@ O próximo nível te espera no botão abaixo:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I5eFF7_f-8c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+### Veja as conquistas de quem já usou
+
+
+
+Sobre o Instituto #AJOGADA:
+
+Instituto científico de gameologia, e escola de gestão criativa de projetos e um kit de ferramentas de administração criativa que misturam princípios de jogos de RPG com SCRUM e gestão financeira.
+
+Fundado em 2014 por Rodrigo Arantes que é administrador, designer de jogos de escritório, analista de negócios criativos, empreendedor e entusiasta dos movimentos de start-ups e gamificação. Desde a adolescência é fã de jogos de estratégia, iniciou sua carreira acadêmica com o curso de economia. Graduou-se como administrador pela Universidade de Brasília e de 2008 a 2012 acumulou experiências em em projetos de engajamento jovem sobre empreendedorismo e terceiro setor (AIESEC, Junior Achievement). Em 2012 participou do projeto Startup Farm de aceleração de startups e desde então pesquisa teorias dos jogos colaborativos e desenvolve modelos teóricos e ferramentas para gestão e tomada de decisões acumulando experiências com clientes nos setores público, privado e terceiro setor. Desenvolveu um tabuleiro para gamificação de projetos que gerou a pesquisa/livro A JOGADA – Sabedoria dos Jogos para Jovens Visionários (Amazon, 2014) sobre metafísica dos jogos. Fundou o Projeto #AJOGADA com o qual foi premiado no simpósio Games For Change 2014 e 2020 (Games for Social Impact) e em 2015 publicou Manifesto por uma Administração baseada em Jogos (ludocracia) e em 2020 anunciou a autoria do primeiro sistema de RPG corporativo do mundo e hoje coordena os trabalhos de internacionalização do Instituto #AJOGADA™ de Gameologia.
 
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
