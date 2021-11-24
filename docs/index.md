@@ -69,18 +69,13 @@ Ela transforma seu plano de estudo num quebra-cabeças que ao ser resolvido torn
    6.2. Biomecânicas da meditação
 
 
-### De
-
-### R$245,00
-
-### por apenas
-
-### R$95,00 
+### De R$245,00 por apenas R$95,00 
 
 
 ### Você quer ficar nessa fase até quando?
 
 O próximo nível te espera no botão abaixo:
+
 
 
 ### Veja as conquistas de quem já usou
