@@ -49,24 +49,24 @@ Ela transforma seu plano de estudo num quebra-cabeças que ao ser resolvido torn
 ### Roteiro do Curso:
 
 1. Como alcançar sua pontuação necessária mais rapidamente?
-   1.1. A Super visão
-   1.2. Algorítimo de decisão
+1.1. A Super visão
+1.2. Algorítimo de decisão
 2. Como avaliar seu progresso de modo 4D?
-   2.1. O poder da simulação da ação
-   2.2. Entendendo suas frequências mentais
-   2.3. Teste prático das suas rotinas, recursos e métodos de estudo
+2.1. O poder da simulação da ação
+2.2. Entendendo suas frequências mentais
+2.3. Teste prático das suas rotinas, recursos e métodos de estudo
 3. Como montar sua rotina de estudos e semana ideal?
 3.1. Uso estratégico do tempo com gamificação por dia e por horários
-   3.2. O ciclo do dia numa jogada
-   3.3. O ciclo da jogada em 7 dias
+3.2. O ciclo do dia numa jogada
+3.3. O ciclo da jogada em 7 dias
 4. Como organizar seu quarto, casa e home-office para ter mais eficiência e produtividade nos seus estudos?
-   4.1. Hierarquização dos espaços
-  4.2. Organização da sua biblioteca
+4.1. Hierarquização dos espaços
+4.2. Organização da sua biblioteca
 5. Como criar mapas mentais com jogadas para resumir livros/editais inteiros numa página?
-   5.1. Mandalas de resumo
+5.1. Mandalas de resumo
 6. Como preparar seu corpo e mente para ter mais calma concentração e memória na hora da prova?
-   6.1. Métodos de meditação
-   6.2. Biomecânicas da meditação
+6.1. Métodos de meditação
+6.2. Biomecânicas da meditação
 
 
 ### De R$245,00 por apenas R$95,00 
@@ -96,9 +96,6 @@ O próximo nível te espera no botão abaixo:
 
 Sobre o Instituto #AJOGADA:
 
-Instituto científico de gameologia, e escola de gestão criativa de projetos e um kit de ferramentas de administração criativa que misturam princípios de jogos de RPG com SCRUM e gestão financeira.
+Instituto científico de gameologia, e escola de gestão criativa de projetos e um kit de ferramentas de administração criativa que misturam princípios de jogos de RPG com Scrum e gestão financeira.
 
 Fundado em 2014 por Rodrigo Arantes que é administrador, designer de jogos de escritório, analista de negócios criativos, empreendedor e entusiasta dos movimentos de start-ups e gamificação. Desde a adolescência é fã de jogos de estratégia, iniciou sua carreira acadêmica com o curso de economia. Graduou-se como administrador pela Universidade de Brasília e de 2008 a 2012 acumulou experiências em em projetos de engajamento jovem sobre empreendedorismo e terceiro setor (AIESEC, Junior Achievement). Em 2012 participou do projeto Startup Farm de aceleração de startups e desde então pesquisa teorias dos jogos colaborativos e desenvolve modelos teóricos e ferramentas para gestão e tomada de decisões acumulando experiências com clientes nos setores público, privado e terceiro setor. Desenvolveu um tabuleiro para gamificação de projetos que gerou a pesquisa/livro A JOGADA – Sabedoria dos Jogos para Jovens Visionários (Amazon, 2014) sobre metafísica dos jogos. Fundou o Projeto #AJOGADA com o qual foi premiado no simpósio Games For Change 2014 e 2020 (Games for Social Impact) e em 2015 publicou Manifesto por uma Administração baseada em Jogos (ludocracia) e em 2020 anunciou a autoria do primeiro sistema de RPG corporativo do mundo e hoje coordena os trabalhos de internacionalização do Instituto #AJOGADA™ de Gameologia.
-
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
