@@ -1,6 +1,6 @@
 ## Passe em qualquer prova ou concurso 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/em7uDuI6dY4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="430" src="https://www.youtube.com/embed/em7uDuI6dY4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Medo de não dar?
 
@@ -21,7 +21,17 @@ Ela transforma seu plano de estudo num quebra-cabeças que ao ser resolvido torn
 
 ### Game-kit digital e imprimível
 
+![WhatsApp Image 2021-11-16 at 16 32 46](https://user-images.githubusercontent.com/94938731/143150292-d832aaf8-5271-4e25-81c8-85370b1f12cd.jpeg)
+
+
 ### Este curso inclui:
+
+
+1. 3h de video online e vitalício.
+
+2. Game-kit digital completo de ferramentas exclusivas do Instituto #AJOGADA™.
+
+3. Espaços de suporte para dúvidas e dicas.
 
 
 ### O Sistema #AJogada é perfeito para:
@@ -58,6 +68,31 @@ Ela transforma seu plano de estudo num quebra-cabeças que ao ser resolvido torn
    6.1. Métodos de meditação
    6.2. Biomecânicas da meditação
 
+
+### De
+
+### R$245,00
+
+### por apenas
+
+### R$95,00 
+
+
+### Você quer ficar nessa fase até quando?
+
+O próximo nível te espera no botão abaixo:
+
+
+### Veja as conquistas de quem já usou
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AbGdHsOgQZ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jEll_OcgCjM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I5eFF7_f-8c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
