@@ -1,4 +1,22 @@
-## Passe em qualquer prova ou concurso 
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '3699004613657217');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=3699004613657217&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+## Passe em QUALQUER prova ou concurso 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/em7uDuI6dY4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -76,7 +94,7 @@ Ela transforma seu plano de estudo num quebra-cabeças que ao ser resolvido torn
 
 O próximo nível te espera no botão abaixo:
 
-![Screenshot_2021-11-24 Passe em provas de concurso, ENEM, vestibular usando o Sistema #AJogada de RPG - A Jogada](https://user-images.githubusercontent.com/94938731/143280905-c6fb81ef-6780-421d-966b-36ccd2ef8569.png)
+![Screenshot_2021-11-24 Passe em provas de concurso, ENEM, vestibular usando o Sistema #AJogada de RPG - A Jogada](https://user-images.githubusercontent.com/94938731/143280905-c6fb81ef-6780-421d-966b-36ccd2ef8569.png)(https://pay.hotmart.com/H61041716I?off=6d7v8df2&sck=HOTMART_PRODUCT_PAGE)
 
 
 ### Veja as conquistas de quem já usou
