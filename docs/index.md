@@ -1,6 +1,6 @@
 ## Passe em qualquer prova ou concurso 
 
-You can use the [editor on GitHub](https://github.com/AJogadaInstitute/Concursos/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown file
+<iframe width="560" height="315" src="https://www.youtube.com/embed/em7uDuI6dY4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Medo de não dar?
 
@@ -8,9 +8,7 @@ Com a nossa ferramenta, dá!
 
 #AJOGADA™ é um sistema de gamificação das suas tarefas para qualquer tipo de projeto, objetivo ou meta difícil.
 
-Ela transforma seu plano de estudo num quebra-cabeças que ao ser resolvido torna o aluno mais apto a resolver questões de provas ou avaliações com o uso de mapas mentais simples e agradáveis de montar.s.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ela transforma seu plano de estudo num quebra-cabeças que ao ser resolvido torna o aluno mais apto a resolver questões de provas ou avaliações com o uso de mapas mentais simples e agradáveis de montar.
 
 ### Neste treinamento você vai aprender a:
 
